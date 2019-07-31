@@ -1,0 +1,15 @@
+\t (00:00:08) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Wed Jul 31 14:03:54 2019
+\t (00:00:08)         Host=SYJ User=user Pid=12100 CPUs=4
+\t (00:00:08) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:08) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\d (00:00:11) Design opened: C:/Users/user/Desktop/work/CHOPPING_WAVE_OSC/allegro/CHOPPING.brd
+\i (00:00:11) trapsize 637
+\i (00:00:11) trapsize 652
+\i (00:00:11) trapsize 694
+\i (00:00:11) trapsize 711
+\i (00:00:11) etchedit 
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Wed Jul 31 14:03:59 2019

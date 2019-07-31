@@ -1,0 +1,18 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Jul 31 12:26:21 2019
+\t (00:00:03)         Host=SYJ User=user Pid=3588 CPUs=4
+\t (00:00:03) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\user\Desktop\work\CHOPPING_WAVE_OSC\allegro\CHOPPING.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\e (00:00:35) Retrieval of 'OrCAD_PCB_Designer_PSpice' license failed: 'ERROR (LMF-13096): License call failed for feature OrCAD_PCB_Editor. The license server search path is defined as <none>. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-96, 234, 0): License server machine is down or not responding.
+
+Run 'lic_error LMF-13096' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:01:23) fillin confirm
+\i (00:01:25) fillin OrCAD_PCB_Designer_PSpice
+\e (00:01:56) Retrieval of 'OrCAD_PCB_Designer_PSpice' license failed: 'ERROR (LMF-13096): License call failed for feature OrCAD_PCB_Editor. The license server search path is defined as <none>. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-96, 234, 0): License server machine is down or not responding.
+
+Run 'lic_error LMF-13096' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:01:58) fillin confirm
+\t (00:01:58)     Journal end - Wed Jul 31 12:28:15 2019

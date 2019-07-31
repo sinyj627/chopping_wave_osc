@@ -1,0 +1,21 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Jul 31 10:43:01 2019
+\t (00:00:00)         Host=SYJ User=user Pid=8384 CPUs=4
+\t (00:00:00) CmdLine= padstack_editor -mpssession user -file ./#Taaaaai09832.tmp -pname PAD125 -data C:/Users/user/AppData/Local/Temp/#Taaaaak09832.tmp
+\t (00:00:00) 
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
+\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:14) QtSignal GuidedDrillTab holeXSize editingFinished 3.000
+\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:15) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:17) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
+\d (00:00:18) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:22) QtFillin No
+\t (00:00:22)     Journal end - Wed Jul 31 10:43:23 2019

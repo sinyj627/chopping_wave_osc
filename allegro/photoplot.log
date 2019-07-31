@@ -1,0 +1,298 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : CHOPPING.brd                                  )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Jul 31 12:04:19 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < metalB >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/CHOPPING_WAVE_OSC/allegro/gerber/metalB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     metalB created.
+
+
+================================================================
+     PROCESSING FILM < metalT >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/CHOPPING_WAVE_OSC/allegro/gerber/metalT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     metalT created.
+
+
+================================================================
+     PROCESSING FILM < drillDraw >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/CHOPPING_WAVE_OSC/allegro/gerber/drillDraw.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+
+     drillDraw created.
+
+
+================================================================
+     PROCESSING FILM < solderB >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/CHOPPING_WAVE_OSC/allegro/gerber/solderB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.90500                                  DARK 
+  CIRCLE     2.03200                                  DARK 
+  CIRCLE     3.68300                                  DARK 
+  SQUARE     1.90500                     0.000 NO     DARK 
+
+     solderB created.
+
+
+================================================================
+     PROCESSING FILM < solderT >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/CHOPPING_WAVE_OSC/allegro/gerber/solderT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.90500                                  DARK 
+  CIRCLE     2.03200                                  DARK 
+  CIRCLE     3.68300                                  DARK 
+  SQUARE     1.90500                     0.000 NO     DARK 
+
+     solderT created.
+
+
+================================================================
+     PROCESSING FILM < SilkB >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/CHOPPING_WAVE_OSC/allegro/gerber/SilkB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     SilkB created.
+
+
+================================================================
+     PROCESSING FILM < SilkT >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/CHOPPING_WAVE_OSC/allegro/gerber/SilkT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.200
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (5.080 36.830)
+           ... using undefined line width of 0.200
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.200
+
+    WARNING: 0 width line found at (16.865 31.531)
+           ... using undefined line width of 0.200
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.200
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+
+     SilkT created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/CHOPPING_WAVE_OSC/allegro/gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/CHOPPING_WAVE_OSC/allegro/gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+
+     TOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        metalB created.
+        metalT created.
+        drillDraw created.
+        solderB created.
+        solderT created.
+        SilkB created.
+        SilkT created with warnings
+        BOTTOM created.
+        TOP created.
+
+ ARTWORK had warnings
